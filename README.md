@@ -12,7 +12,7 @@ These are the key aspects of software engineering:
 3. Development
 4. Testing
 5. Maintenance
-6. Project Management
+6. Project Management.
    
 The following are the important aspects of software engineering in the Technology industry:
 1. Quality assurance
